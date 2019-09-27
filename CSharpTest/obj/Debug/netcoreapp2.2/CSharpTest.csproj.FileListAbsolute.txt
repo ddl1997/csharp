@@ -1,0 +1,11 @@
+G:\Test\CSharpTest\bin\Debug\netcoreapp2.2\CSharpTest.deps.json
+G:\Test\CSharpTest\bin\Debug\netcoreapp2.2\CSharpTest.runtimeconfig.json
+G:\Test\CSharpTest\bin\Debug\netcoreapp2.2\CSharpTest.runtimeconfig.dev.json
+G:\Test\CSharpTest\bin\Debug\netcoreapp2.2\CSharpTest.dll
+G:\Test\CSharpTest\bin\Debug\netcoreapp2.2\CSharpTest.pdb
+G:\Test\CSharpTest\obj\Debug\netcoreapp2.2\CSharpTest.csprojAssemblyReference.cache
+G:\Test\CSharpTest\obj\Debug\netcoreapp2.2\CSharpTest.csproj.CoreCompileInputs.cache
+G:\Test\CSharpTest\obj\Debug\netcoreapp2.2\CSharpTest.AssemblyInfoInputs.cache
+G:\Test\CSharpTest\obj\Debug\netcoreapp2.2\CSharpTest.AssemblyInfo.cs
+G:\Test\CSharpTest\obj\Debug\netcoreapp2.2\CSharpTest.dll
+G:\Test\CSharpTest\obj\Debug\netcoreapp2.2\CSharpTest.pdb

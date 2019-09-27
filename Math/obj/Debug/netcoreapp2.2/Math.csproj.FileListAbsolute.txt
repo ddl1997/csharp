@@ -1,0 +1,11 @@
+G:\Test\Math\bin\Debug\netcoreapp2.2\Math.deps.json
+G:\Test\Math\bin\Debug\netcoreapp2.2\Math.runtimeconfig.json
+G:\Test\Math\bin\Debug\netcoreapp2.2\Math.runtimeconfig.dev.json
+G:\Test\Math\bin\Debug\netcoreapp2.2\Math.dll
+G:\Test\Math\bin\Debug\netcoreapp2.2\Math.pdb
+G:\Test\Math\obj\Debug\netcoreapp2.2\Math.csprojAssemblyReference.cache
+G:\Test\Math\obj\Debug\netcoreapp2.2\Math.csproj.CoreCompileInputs.cache
+G:\Test\Math\obj\Debug\netcoreapp2.2\Math.AssemblyInfoInputs.cache
+G:\Test\Math\obj\Debug\netcoreapp2.2\Math.AssemblyInfo.cs
+G:\Test\Math\obj\Debug\netcoreapp2.2\Math.dll
+G:\Test\Math\obj\Debug\netcoreapp2.2\Math.pdb
