@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathFunc", "MathFunc.csproj", "{08A71FD0-30EF-42A4-9913-14005A0B6348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTest", "..\CSharpTest\CSharpTest.csproj", "{BC1841E7-1987-4598-B0A2-5DFA75417122}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpTest", "..\CSharpTest\CSharpTest.csproj", "{BC1841E7-1987-4598-B0A2-5DFA75417122}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm", "..\Algorithm\Algorithm.csproj", "{9A4479F2-34FA-43C5-8602-7EC817EA41C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "..\Web\Web.csproj", "{28BFBDB3-79AB-45E6-9BC8-9459AA717861}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{BC1841E7-1987-4598-B0A2-5DFA75417122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1841E7-1987-4598-B0A2-5DFA75417122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1841E7-1987-4598-B0A2-5DFA75417122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4479F2-34FA-43C5-8602-7EC817EA41C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4479F2-34FA-43C5-8602-7EC817EA41C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4479F2-34FA-43C5-8602-7EC817EA41C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4479F2-34FA-43C5-8602-7EC817EA41C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BFBDB3-79AB-45E6-9BC8-9459AA717861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BFBDB3-79AB-45E6-9BC8-9459AA717861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BFBDB3-79AB-45E6-9BC8-9459AA717861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BFBDB3-79AB-45E6-9BC8-9459AA717861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

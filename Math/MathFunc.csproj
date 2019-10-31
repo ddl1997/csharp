@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="MathBased\新文件夹\" />
     <Folder Include="OutputFile\" />
   </ItemGroup>
 

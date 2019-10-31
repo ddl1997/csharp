@@ -1,0 +1,124 @@
+﻿@page
+@model Web.IndexModel
+<!DOCTYPE html>
+<html lang="zn-ch">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>pdf</title>
+    <style>
+        body {
+            padding: 20px;
+            font-size: 14px;
+        }
+        .header .title {
+            float: right;
+        }
+        .body .title {
+            margin-bottom: 10px;
+        }
+        .body .title .wrapper {
+            display: inline-block;
+            border-bottom: 1px solid #000;
+            padding: 0 10px;
+        }
+        .table-section .product-table td,
+        .table-section .product-table th {
+            text-align: center;
+            border: 1px solid #000;
+        }
+        .product-table {
+            width: 100%
+        }
+        .text-box {
+            width: 100%;
+        }
+        .info-section .tip {
+            margin-top: 20px;
+        }
+        .underline {
+            margin-top: 20%;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="https://server.custouch.com/Corp/10095/1009503/Media/Images/logo.png" alt="" />
+        <h2 class="title">报价单</h2>
+    </div>
+    <div class="body">
+        <div class="title">
+            尊敬的<div class="wrapper"><span class="name">@company</span></div>
+        </div>
+
+        <div class="table-section">
+            <div>以下是您索取的报价信息：</div>
+            <table class="product-table" cellpadding="3" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>序号</th>
+                        <th>货号</th>
+                        <th>产品名称</th>
+                        <th>产品规格</th>
+                        <th>数量</th>
+                        <th>单价</th>
+                        <th>促销价</th>
+                        <th>小计</th>
+                        <th>备注</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>#{index}</td>
+                        <td>#{item.material}</td>
+                        <td>#{item.name}</td>
+                        <td>#{item.capacity}</td>
+                        <td>#{item.productNum}</td>
+                        <td>#{item.price}</td>
+                        <td>#{item.cutPrice}</td>
+                        <td>#{item.totalPrice}</td>
+                        <td>少量现货</td>
+                    </tr>
+                    <tr>
+                        <td>#{index}</td>
+                        <td>#{item.material}</td>
+                        <td>#{item.description}</td>
+                        <td>#{item.productNum}</td>
+                        <td>pcs</td>
+                        <td>#{item.noramlPrice}</td>
+                        <td>#{item.discount}</td>
+                        <td>#{item.totalPrice}</td>
+                        <td>少量现货</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="2">总金额</td>
+                        <td colspan="4"></td>
+                        <td colspan="2">#{totalPrice}</td>
+                        <td>元 整(RMB)</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="text-box">
+                <img src="./desc.png" alt="">
+            </div>
+        </div>
+        <div class="info-section">
+            <div><span>您的联系方式：</span></div>
+            <div><span>姓名：</span>#{username}</div>
+            <div><span>电话：</span>#{phone}</div>
+            <div><span>邮箱：</span>#{email}</div>
+            <div><span>收货地址：</span>#{address}</div>
+            <div class="tip">我们会尽快安排销售专员联系您处理后续购买事宜。谢谢！</div>
+        </div>
+        <div class="underline">
+            <div class="company">珀金埃尔默企业管理（上海）有限公司</div>
+            <div class="now">2017/2/12</div>
+        </div>
+    </div>
+</body>
+</html>

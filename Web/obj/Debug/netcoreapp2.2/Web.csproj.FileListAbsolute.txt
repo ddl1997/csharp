@@ -1,0 +1,14 @@
+G:\Test\csharp\Web\bin\Debug\netcoreapp2.2\Web.deps.json
+G:\Test\csharp\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.json
+G:\Test\csharp\Web\bin\Debug\netcoreapp2.2\Web.runtimeconfig.dev.json
+G:\Test\csharp\Web\bin\Debug\netcoreapp2.2\Web.dll
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.csprojAssemblyReference.cache
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.csproj.CoreCompileInputs.cache
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cache
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.RazorAssemblyInfo.cs
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfoInputs.cache
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.AssemblyInfo.cs
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.RazorTargetAssemblyInfo.cache
+G:\Test\csharp\Web\bin\Debug\netcoreapp2.2\Web.pdb
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.dll
+G:\Test\csharp\Web\obj\Debug\netcoreapp2.2\Web.pdb

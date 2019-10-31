@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Test\\CSharpTest\\CSharpTest.csproj": {}
+    "G:\\Test\\csharp\\CSharpTest\\CSharpTest.csproj": {}
   },
   "projects": {
-    "G:\\Test\\CSharpTest\\CSharpTest.csproj": {
+    "G:\\Test\\csharp\\CSharpTest\\CSharpTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Test\\CSharpTest\\CSharpTest.csproj",
+        "projectUniqueName": "G:\\Test\\csharp\\CSharpTest\\CSharpTest.csproj",
         "projectName": "CSharpTest",
-        "projectPath": "G:\\Test\\CSharpTest\\CSharpTest.csproj",
+        "projectPath": "G:\\Test\\csharp\\CSharpTest\\CSharpTest.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Test\\CSharpTest\\obj\\",
+        "outputPath": "G:\\Test\\csharp\\CSharpTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft\\Xamarin\\NuGet\\",
@@ -44,6 +44,18 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "ABCpdfCore": {
+              "target": "Package",
+              "version": "[11.3.3, )"
+            },
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "FreeSpire.PDF": {
+              "target": "Package",
+              "version": "[5.10.0, )"
+            },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -58,9 +70,29 @@
               "target": "Package",
               "version": "[12.0.2, )"
             },
+            "Spire.Doc": {
+              "target": "Package",
+              "version": "[7.9.9, )"
+            },
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.0.601, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Winista.HtmlParser": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.1, )"
+            },
+            "itextsharp.xmlworker": {
+              "target": "Package",
+              "version": "[5.5.13.1, )"
             }
           },
           "imports": [

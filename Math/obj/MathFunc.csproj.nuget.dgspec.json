@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Test\\Math\\MathFunc.csproj": {}
+    "G:\\Test\\csharp\\Math\\MathFunc.csproj": {}
   },
   "projects": {
-    "G:\\Test\\Math\\MathFunc.csproj": {
+    "G:\\Test\\csharp\\Math\\MathFunc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Test\\Math\\MathFunc.csproj",
+        "projectUniqueName": "G:\\Test\\csharp\\Math\\MathFunc.csproj",
         "projectName": "MathFunc",
-        "projectPath": "G:\\Test\\Math\\MathFunc.csproj",
+        "projectPath": "G:\\Test\\csharp\\Math\\MathFunc.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Test\\Math\\obj\\",
+        "outputPath": "G:\\Test\\csharp\\Math\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft\\Xamarin\\NuGet\\",
